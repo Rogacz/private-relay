@@ -1,0 +1,4 @@
+#Disable private realy
+#https://developer.apple.com/support/prepare-your-network-for-icloud-private-relay
+0.0.0.0 mask.icloud.com
+0.0.0.0 mask-h2.icloud.com

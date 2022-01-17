@@ -1,4 +1,6 @@
 0.0.0.0 dns.google
 0.0.0.0 mask.icloud.com
+0.0.0.0 mask-canary.icloud.com
 0.0.0.0 mask-h2.icloud.com
 0.0.0.0 mask.apple-dns.net
+0.0.0.0 canary.mask.apple-dns.net
